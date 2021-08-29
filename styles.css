@@ -1,0 +1,101 @@
+*{
+
+    font-family: Arial-Mt;
+}
+
+#heading{
+    background-color: #0c142c;
+    color: white;
+    font-weight:700 ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 0.5%;
+}
+div.box{
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding: 2%;
+    margin: 1em;
+}
+div.box1{
+    box-shadow: 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    padding-top:0%;
+    margin-left:35px;
+    width:50vw;
+    border-radius: 10px;
+    padding: 1%;
+}
+span{
+    margin-left: 10em;
+}
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%;
+  }
+  
+  .sticky + .content {
+    padding-top: 60px;
+  }
+#card{
+    border-top-right-radius: 35px;
+    border-bottom-left-radius: 35px;
+    background-color: crimson;
+    width:25vw;
+    text-align: center;
+    color: white;
+    font-weight:700 ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 0%;
+    padding: 0.5em;
+}
+a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    font-weight: 600;
+}
+#hd{
+    width: 20vw;
+    background-color: crimson;
+    text-align: center;
+    color: white;
+    border-radius: 20px;
+    padding: 1.5%;
+}
+#sp{
+    width: 18vw;
+    background-color: whitesmoke;
+    text-align: center;
+    color: #000124;
+    padding:0.2em;
+    margin-left: 1vw;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+#ad{
+    width: 40vw;
+}
+#details{
+    background-color: crimson;
+    color: white;
+    font-weight:700 ;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 50px;
+    text-align: center;
+    margin-bottom: 0%;
+    padding:0.5em
+}
+#boxdt{
+    background-color:whitesmoke;
+    margin-left: 8%;
+    margin-right:8%;
+    text-align: center;
+    padding: 2%;
+    color: #000124;
+    font-weight: 600;
+    margin-top: 0.2em;
+    margin-bottom: 0.8em
+}
+.hide {
+    display: block;
+  }
+
+
